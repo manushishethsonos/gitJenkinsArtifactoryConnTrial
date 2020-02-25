@@ -1,2 +1,2 @@
 def demofun():
-  print('This is a trial version - 2!')
+  print('This is a trial version!')
